@@ -2,7 +2,7 @@
 - 👀 I code in Python and Java
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Open source
-- 📫 How to reach me -> https://delegent.github.io/Aboutme/
+- 📫 How to reach me -> https://delegent.github.io/port-folio/
 
 <!---
 delegent/delegent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
