@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[React Js](https://reactjs.org/)**
+- 🔭 I’m currently working on **[MERN STACK](https://reactjs.org/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
