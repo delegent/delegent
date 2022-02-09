@@ -1,7 +1,7 @@
 <p align = "center"><img height = "300px" width = "400px" src = "https://data.whicdn.com/images/346770690/original.gif" /></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anubhav</h1>
-<h3 align="center">I'm a Web Developer.</h3>
+<h3 align="center">I'm a Web Developer and Coder.</h3>
 
 
 ## 🙋‍♂️ About Me
