@@ -1,4 +1,4 @@
-<p align = "center"><img height = "300px" width = "300px" src = "https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47v31a9nj39bnwcs5q78zpsrpfet5lczcs6vc3pbpw&rid=giphy.gif&ct=s" /></p>
+<p align = "center"><img height = "300px" width = "400px" src = "https://data.whicdn.com/images/346770690/original.gif" /></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anubhav</h1>
 <h3 align="center">I'm a Web Developer.</h3>
