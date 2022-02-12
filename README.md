@@ -1,4 +1,4 @@
-<p align = "center"><img height = "300px" width = "400px" src = "https://data.whicdn.com/images/346770690/original.gif" /></p>
+<p align = "center"><img height = "300px" width = "300px" src = "https://www.talentacompany.com/wp-content/uploads/2020/02/image2-home4.png" /></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anubhav</h1>
 <h3 align="center">I'm a Web Developer and Coder.</h3>
