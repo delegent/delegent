@@ -1,22 +1,44 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anubhav</h1>
-<h3 align="center">I'm a Web Developer and Coder.</h3>
+![Banner Image](https://github.com/delegent/delegent/blob/main/images/Blue%20%26%20Black%20Modern%20Technology%20LinkedIn%20Banner.png)
+***
 
+```javascript
+const anubhav = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "C++"],
+    askMeAbout: ["web dev", "tech", "software development", "Fitness/Sports Science"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "Material UI" , ]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "Building Techbugs",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+*** 
 
-## 🙋‍♂️ About Me
+## 🐱 ABOUT ME
 
 - 🔭 I’m currently working on **[MERN STACK](https://reactjs.org/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 **Data Structures and Algorithms** using JAVA
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Collaborating on **OpenSource Projects**
 
-- 👨‍💻 All of my information are available at **[My Portfolio](https://delegent.github.io/port-folio)**
+- 👨‍💻 Check out **[My Portfolio](https://delegent.github.io/port-folio)**
 
 - 📫 How to reach me **srivastavaanubhav764@gmail.com**
 
 - ⚡ Hobbies **I love to do workouts and being updated on the tech trends**
 
-## 🚀 Languages and Tools:
+- ⛓ Blockchain Enthusiast
+
+***
+
+## 🚀 LANGUAGES AND TOOLS:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -47,8 +69,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=delegent&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
+ 
+***
+## 📊 GITHUB STATS
 
   <br/>
     <a href="https://github.com/delegent/github-readme-stats"><img alt="Anubhav Srivastava's Github Stats" src="https://github-readme-stats.vercel.app/api?username=delegent&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -65,17 +88,5 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
+***
 
-<a href = "https://www.linkedin.com/in/anubhav-raj-srivastava/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/__anubhav_srivastava__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-- 💻 Take a look on my instagram page **[Tech Bugs](https://www.instagram.com/__tech.bugs__/)**
-
-</p>
-
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=delegent">
-</a>
-<a href="https://github.com/delegent?tab=followers"><img src="https://img.shields.io/github/followers/delegent?label=Followers&style=social" alt="GitHub Badge"></a>
