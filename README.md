@@ -71,7 +71,6 @@ const anubhav = {
 </p>
  
 ***
-## 📊 GITHUB STATS
 
   <br/>
   <a href="https://github.com/delegent/github-readme-stats"><img alt="delegent's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delegent&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
